@@ -14,6 +14,7 @@ Daily Practise For Leetcode
 
 * [20190820 - Two_Sum - 两数之和](20190820/README.md)
 * [20190821_2 - Reverse_Integer - 整数反转](20190821_2/README.md)
+* [20190822 - Palindrome_Number - 回文数](20190822/README.md)
 
 #### 中等
 
