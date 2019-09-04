@@ -11,6 +11,7 @@
 * [20190828 - Merge_Two_Sorted_Lists - 合并两个有序链表](20190828/README.md)
 * [20190903_1 - Remove_Duplicates_from_Sorted_Array -  删除排序数组中的重复项](20190903_1/README.md)
 * [20190903_2 - Remove_Element - 移除元素](20190903_2/README.md)
+* [20190904 - Implement_strStr() - 实现 strStr()](20190904/README.md)
 
 ## 中等
 

@@ -18,3 +18,4 @@ Daily Practise For Leetcode
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [JS](20190828/index.js) | 递归 |
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [JS](20190903_1/index.js) | 双指针 |
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/) | [JS](20190903_2/index.js) | 双指针 |
+|28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [JS](20190904/index.js) | 字符串，实现 indexOf |
