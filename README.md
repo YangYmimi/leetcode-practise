@@ -19,3 +19,4 @@ Daily Practise For Leetcode
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [JS](20190903_1/index.js) | 双指针 |
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/) | [JS](20190903_2/index.js) | 双指针 |
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [JS](20190904/index.js) | 字符串，实现 indexOf |
+|35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [JS](20190905/index.js) | 二分法 |
