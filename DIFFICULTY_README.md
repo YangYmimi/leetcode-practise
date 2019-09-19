@@ -19,6 +19,7 @@
 
 * [20190821_1 - Add_Two_Numbers - 两数相加](20190821_1/README.md)
 * [20190917 - Container_With_Most_Water - 盛最多水的容器](20190917/README.md)
+* [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
 
 ## 高级
 
