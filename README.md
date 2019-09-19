@@ -23,3 +23,4 @@ Daily Practise For Leetcode
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [JS](20190905/index.js) | 二分查找 |
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/solution/powx-n-by-leetcode/) | [JS](20190918/index.js) | 二分查找 |
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JS](20190906/index.js) | 分治法 |
+|69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JS](20190919/index.js) | 二分查找 |

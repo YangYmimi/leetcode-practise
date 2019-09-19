@@ -14,6 +14,7 @@
 * [20190904 - Implement_strStr() - 实现 strStr()](20190904/README.md)
 * [20190905 - Search_Insert_Position - 搜索插入位置](20190905/README.md)
 * [20190906 - Maximum_Subarray - 最大子序和](20190906/README.md)
+* [20190919 - Sqrt(x) - 平方根](20190919/README.md)
 
 ## 中等
 
