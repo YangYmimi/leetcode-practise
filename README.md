@@ -23,4 +23,6 @@ Daily Practise For Leetcode
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [JS](20190905/index.js) | 二分查找 |
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/solution/powx-n-by-leetcode/) | [JS](20190918/index.js) | 二分查找 |
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JS](20190906/index.js) | 分治法 |
-|69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JS](20190919/index.js) | 二分查找 |
+|69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JS](20190919/index.js) | 二分查找, 牛顿迭代法 |
+|74|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [JS](20190908/index.js) | 二分查找 |
+|167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](20190920/index.js) | 二分查找, 双指针 |
