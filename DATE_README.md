@@ -15,6 +15,8 @@
 * [20190905 - Search_Insert_Position - 搜索插入位置](20190905/README.md)
 * [20190906 - Maximum_Subarray - 最大子序和](20190906/README.md)
 * [20190908 - Search_a_2D_Matrix - 搜索二维矩阵](20190908/README.md)
+* [20190910 - Find_Minimum_in_Rotated_Sorted_Array - 寻找旋转排序数组中的最小值](20190910/README.md)
+* [20190912 - Find_Minimum_in_Rotated_Sorted_Array_II - 寻找旋转排序数组中的最小值2](20190912/README.md)
 * [20190917 - Container_With_Most_Water - 盛最多水的容器](20190917/README.md)
 * [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
 * [20190919 - Sqrt(x) - 平方根](20190919/README.md)

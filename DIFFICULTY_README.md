@@ -23,7 +23,9 @@
 * [20190908 - Search_a_2D_Matrix - 搜索二维矩阵](20190908/README.md)
 * [20190917 - Container_With_Most_Water - 盛最多水的容器](20190917/README.md)
 * [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
+* [20190910 - Find_Minimum_in_Rotated_Sorted_Array - 寻找旋转排序数组中的最小值](20190910/README.md)
 
 ## 困难
 
 * [20190830 - Median_of_Two_Sorted_Arrays - 寻找两个有序数组的中位数](20190830/README.md)
+* [20190912 - Find_Minimum_in_Rotated_Sorted_Array_II - 寻找旋转排序数组中的最小值2](20190912/README.md)

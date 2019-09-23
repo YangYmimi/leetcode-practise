@@ -25,4 +25,6 @@ Daily Practise For Leetcode
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JS](20190906/index.js) | 分治法 |
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JS](20190919/index.js) | 二分查找, 牛顿迭代法 |
 |74|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [JS](20190908/index.js) | 二分查找 |
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JS](20190910/index.js) | 二分查找 |
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JS](20190912/index.js) | 二分查找 |
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](20190920/index.js) | 二分查找, 双指针 |
