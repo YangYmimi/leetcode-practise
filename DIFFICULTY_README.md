@@ -24,6 +24,7 @@
 * [20190917 - Container_With_Most_Water - 盛最多水的容器](20190917/README.md)
 * [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
 * [20190910 - Find_Minimum_in_Rotated_Sorted_Array - 寻找旋转排序数组中的最小值](20190910/README.md)
+* [20190926 - Find_Peak_Element - 寻找峰值](20190926/README.md)
 
 ## 困难
 
