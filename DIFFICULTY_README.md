@@ -16,6 +16,7 @@
 * [20190906 - Maximum_Subarray - 最大子序和](20190906/README.md)
 * [20190919 - Sqrt(x) - 平方根](20190919/README.md)
 * [20190920 - Two Sum II - Input array is sorted - 两数之和 II - 输入有序数组](20190920/README.md)
+* [20190924 - Majority_Element - 求众数](4/README.md)
 
 ## 中等
 
@@ -24,7 +25,7 @@
 * [20190917 - Container_With_Most_Water - 盛最多水的容器](20190917/README.md)
 * [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
 * [20190910 - Find_Minimum_in_Rotated_Sorted_Array - 寻找旋转排序数组中的最小值](20190910/README.md)
-* [20190926 - Find_Peak_Element - 寻找峰值](20190926/README.md)
+* [20190922 - Find_Peak_Element - 寻找峰值](20190922/README.md)
 
 ## 困难
 

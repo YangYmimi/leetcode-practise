@@ -21,4 +21,5 @@
 * [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
 * [20190919 - Sqrt(x) - 平方根](20190919/README.md)
 * [20190920 - Two Sum II - Input array is sorted - 两数之和 II - 输入有序数组](20190920/README.md)
-* [20190926 - Find_Peak_Element - 寻找峰值](20190926/README.md)
+* [20190922 - Find_Peak_Element - 寻找峰值](20190922/README.md)
+* [20190924 - Majority_Element - 求众数](4/README.md)
