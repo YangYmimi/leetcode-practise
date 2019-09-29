@@ -28,6 +28,7 @@
 * [20190918 - Pow(x, n) - 计算x的n次幂函数](20190918/README.md)
 * [20190910 - Find_Minimum_in_Rotated_Sorted_Array - 寻找旋转排序数组中的最小值](20190910/README.md)
 * [20190922 - Find_Peak_Element - 寻找峰值](20190922/README.md)
+* [20190929 - Validate_Stack_Sequences - 验证栈序列](20190929/README.md)
 
 ## 困难
 

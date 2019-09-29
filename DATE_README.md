@@ -25,3 +25,4 @@
 * [20190924 - Majority_Element - 求众数](20190924/README.md)
 * [20190926 - Remove_Outermost_Parentheses - 删除最外层的括号](20190926/README.md)
 * [20190927 - Remove_All_Adjacent_Duplicates_In_String - 删除字符串中的所有相邻重复项](20190927/README.md)
+* [20190929 - Validate_Stack_Sequences - 验证栈序列](20190929/README.md)
