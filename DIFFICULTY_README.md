@@ -18,6 +18,7 @@
 * [20190920 - Two Sum II - Input array is sorted - 两数之和 II - 输入有序数组](20190920/README.md)
 * [20190924 - Majority_Element - 求众数](4/README.md)
 * [20190926 - Remove_Outermost_Parentheses - 删除最外层的括号](20190926/README.md)
+* [20190927 - Remove_All_Adjacent_Duplicates_In_String - 删除字符串中的所有相邻重复项](20190927/README.md)
 
 ## 中等
 
