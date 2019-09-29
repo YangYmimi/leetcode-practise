@@ -30,3 +30,4 @@ Daily Practise For Leetcode
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [JS](20190922/index.js) | 二分查找 |
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](20190920/index.js) | 二分查找, 双指针 |
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JS](20190922/index.js) | 位运算, 数组, 分治算法 |
+|1021|[Remove Outermost Parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [JS](20190926/index.js) | 栈 |
