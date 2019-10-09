@@ -26,3 +26,6 @@
 * [20190926 - Remove_Outermost_Parentheses - 删除最外层的括号](20190926/README.md)
 * [20190927 - Remove_All_Adjacent_Duplicates_In_String - 删除字符串中的所有相邻重复项](20190927/README.md)
 * [20190929 - Validate_Stack_Sequences - 验证栈序列](20190929/README.md)
+* [20190930 - Trapping_Rain_Water - 接雨水](20190930/README.md)
+* [20191002 - Remove_Duplicates_from_Sorted_Array_II - 删除排序数组中的重复项](20191002/README.md)
+* [20191008 - 3_Sum - 三数之和](20191008/README.md)

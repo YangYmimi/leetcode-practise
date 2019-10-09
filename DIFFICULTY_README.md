@@ -29,8 +29,11 @@
 * [20190910 - Find_Minimum_in_Rotated_Sorted_Array - 寻找旋转排序数组中的最小值](20190910/README.md)
 * [20190922 - Find_Peak_Element - 寻找峰值](20190922/README.md)
 * [20190929 - Validate_Stack_Sequences - 验证栈序列](20190929/README.md)
+* [20191002 - Remove_Duplicates_from_Sorted_Array_II - 删除排序数组中的重复项](20191002/README.md)
+* [20191008 - 3_Sum - 三数之和](20191008/README.md)
 
 ## 困难
 
 * [20190830 - Median_of_Two_Sorted_Arrays - 寻找两个有序数组的中位数](20190830/README.md)
 * [20190912 - Find_Minimum_in_Rotated_Sorted_Array_II - 寻找旋转排序数组中的最小值2](20190912/README.md)
+* [20190930 - Trapping_Rain_Water - 接雨水](20190930/README.md)
