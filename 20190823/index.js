@@ -1,36 +1,33 @@
 /**
- * @param {string} s
- * @return {number}
+ * @param {number} num
+ * @return {string}
  */
-var romanToInt = function(s) {
-  var maps = {
-    'I': 1,
-    'V': 5,
-    'X': 10,
-    'L': 50,
-    'C': 100,
-    'D': 500,
-    'M': 1000,
-    'IV': 4,
-    'IX': 9,
-    'XL': 40,
-    'XC': 90,
-    'CD': 400,
-    'CM': 900
-  };
+var intToRoman = function(num) {
+  var maps = [
+    { num: 1000, roman: 'M' },
+    { num: 900, roman: 'CM' },
+    { num: 500, roman: 'D' },
+    { num: 400, roman: 'CD' },
+    { num: 100, roman: 'C' },
+    { num: 90, roman: 'XC' },
+    { num: 50, roman: 'L' },
+    { num: 40, roman: 'XL' },
+    { num: 10, roman: 'X' },
+    { num: 9, roman: 'IX' },
+    { num: 5, roman: 'V' },
+    { num: 4, roman: 'IV' },
+    { num: 1, roman: 'I' }
+  ];
 
-  var step = 0, sum = 0;
-  while (step < s.length) {
-    var single = maps[s.substr(step, 1)]; // 取1个
-    var multi = maps[s.substr(step, 2)]; // 取2个
-    if (multi) {
-      sum += multi;
-      step += 2;
-    } else {
-      sum += single;
-      step += 1;
+  var result = '';
+  var index = 0;
+  while (index < 13) { // index 从 0 ~ 12 最多13个
+    while (num >= maps[index].num) { // 大于等于则继续做分解操作
+      num -= maps[index].num;
+      result += maps[index].roman;
     }
+    index++;
   }
 
-  return sum;
+  return result;
 };

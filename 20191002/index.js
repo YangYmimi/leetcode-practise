@@ -13,4 +13,3 @@ var removeDuplicates = function(nums) {
     }
   }
 };
-
