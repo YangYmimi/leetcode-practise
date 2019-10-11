@@ -29,6 +29,7 @@ Daily Practise For Leetcode
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JS](20190919/index.js) | 二分查找, 牛顿迭代法 |
 |74|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [JS](20190908/index.js) | 二分查找 |
 |80|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](20191002/index.js) | 数组, 双指针 |
+|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [JS](20191011/index.js) | 数组, 双指针 |
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JS](20190910/index.js) | 二分查找 |
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JS](20190912/index.js) | 二分查找 |
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [JS](20190922/index.js) | 二分查找 |
