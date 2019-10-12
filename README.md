@@ -35,6 +35,8 @@ Daily Practise For Leetcode
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [JS](20190922/index.js) | 二分查找 |
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](20190920/index.js) | 二分查找, 双指针 |
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JS](20190922/index.js) | 位运算, 数组, 分治算法 |
+|344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JS](20191012/index.js) | 字符串, 双指针 |
 |946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | [JS](20190929/index.js) | 栈 |
+|977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JS](20191004/index.js) | 数组, 双指针 |
 |1021|[Remove Outermost Parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [JS](20190926/index.js) | 栈 |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](20190927/index.js) | 栈 |

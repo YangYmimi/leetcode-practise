@@ -14,10 +14,6 @@ var merge = function(nums1, m, nums2, n) {
     nums1[len--] = nums1[len1] > nums2[len2] ? nums1[len1--] : nums2[len2--];
   }
 
-  function arrayCopy(src, srcIndex, dest, destIndex, length) {
-    dest.splice(destIndex, length, ...src.slice(srcIndex, srcIndex + length));
-  }
-
   // 表示将nums2数组从下标0位置开始，拷贝到nums1数组中，从下标0位置开始，长度为len2+1
   nums1.splice(0, len2 + 1, ...nums2.slice(0, 0 + len2 + 1));
 };

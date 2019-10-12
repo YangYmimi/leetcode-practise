@@ -19,7 +19,9 @@
 * [20190924 - Majority_Element - 求众数](4/README.md)
 * [20190926 - Remove_Outermost_Parentheses - 删除最外层的括号](20190926/README.md)
 * [20190927 - Remove_All_Adjacent_Duplicates_In_String - 删除字符串中的所有相邻重复项](20190927/README.md)
+* [20191004 - Squares_of_a_Sorted_Array - 有序数组的平方](20191004/README.md)
 * [20191011 - Merge_Sorted_Array - 合并两个有序数组](20191011/README.md)
+* [20191012 - Reverse_String - 反转字符串](20191012/README.md)
 
 ## 中等
 
