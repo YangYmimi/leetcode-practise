@@ -24,8 +24,10 @@ Daily Practise For Leetcode
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [JS](20190904/index.js) | 字符串，实现 indexOf |
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [JS](20190905/index.js) | 二分查找 |
 |42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) | [JS](20190930/index.js) | 栈, 双指针, 数组 |
+|46|[Permutations](https://leetcode-cn.com/problems/permutations/) | [JS](20191022/index.js) | 回溯算法 |
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/solution/powx-n-by-leetcode/) | [JS](20190918/index.js) | 二分查找 |
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JS](20190906/index.js) | 分治法 |
+|58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JS](20191015/index.js) | 字符串 |
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JS](20190919/index.js) | 二分查找, 牛顿迭代法 |
 |74|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [JS](20190908/index.js) | 二分查找 |
 |80|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](20191002/index.js) | 数组, 双指针 |

@@ -22,6 +22,7 @@
 * [20191004 - Squares_of_a_Sorted_Array - 有序数组的平方](20191004/README.md)
 * [20191011 - Merge_Sorted_Array - 合并两个有序数组](20191011/README.md)
 * [20191012 - Reverse_String - 反转字符串](20191012/README.md)
+* [20191015 - Length_of_Last_Word - 最后一个单次长度](20191015/README.md)
 
 ## 中等
 
@@ -35,6 +36,7 @@
 * [20191002 - Remove_Duplicates_from_Sorted_Array_II - 删除排序数组中的重复项](20191002/README.md)
 * [20191008 - 3_Sum - 三数之和](20191008/README.md)
 * [20191010 - Integer_to_Roman - 整数转罗马数字](20191010/README.md)
+* [20191014 - Permutations - 全排列](20191014/README.md)
 
 ## 困难
 
