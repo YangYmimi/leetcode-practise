@@ -24,6 +24,7 @@
 * [20191012 - Reverse_String - 反转字符串](20191012/README.md)
 * [20191015 - Length_of_Last_Word - 最后一个单次长度](20191015/README.md)
 * [20191016 - Same_Tree - 相等的树](20191016/README.md)
+* [20191017 - Remove_Duplicates_from_Sorted_List - 删除排序链表中的重复元素](20191017/README.md)
 
 ## 中等
 
