@@ -16,7 +16,7 @@
 * [20190906 - Maximum_Subarray - 最大子序和](20190906/README.md)
 * [20190919 - Sqrt(x) - 平方根](20190919/README.md)
 * [20190920 - Two Sum II - Input array is sorted - 两数之和 II - 输入有序数组](20190920/README.md)
-* [20190924 - Majority_Element - 求众数](4/README.md)
+* [20190924 - Majority_Element - 求众数](20190924/README.md)
 * [20190926 - Remove_Outermost_Parentheses - 删除最外层的括号](20190926/README.md)
 * [20190927 - Remove_All_Adjacent_Duplicates_In_String - 删除字符串中的所有相邻重复项](20190927/README.md)
 * [20191004 - Squares_of_a_Sorted_Array - 有序数组的平方](20191004/README.md)
@@ -26,6 +26,9 @@
 * [20191016 - Same_Tree - 相等的树](20191016/README.md)
 * [20191017 - Remove_Duplicates_from_Sorted_List - 删除排序链表中的重复元素](20191017/README.md)
 * [20191018 - Symmetric_Tree - 对称二叉树](20191018/README.md)
+* [20191020 - Single_Number - 只出现一次的数](20191020/README.md)
+* [20191022 - Min_Stack - 最小栈](20191022/README.md)
+* [20191026 - Valid_Palindrome - 有效回文数](20191026/README.md)
 
 ## 中等
 

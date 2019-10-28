@@ -35,8 +35,11 @@ Daily Practise For Leetcode
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [JS](20191011/index.js) | 数组, 双指针 |
 |100|[Same Tree](https://leetcode-cn.com/problems/same-tree/) | [JS](20191023/index.js) | 深度优先搜索，树 |
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [JS](20191024/index.js) | 树，深度优先搜索，广度优先搜索 |
+|125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JS](20191026/index.js) | 双指针，字符串 |
+|136|[Single Number](https://leetcode-cn.com/problems/single-number/) | [JS](20191020/index.js) | 位运算，哈希表 |
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JS](20190910/index.js) | 二分查找 |
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JS](20190912/index.js) | 二分查找 |
+|155|[Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JS](20191022/index.js) | 栈 |
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [JS](20190922/index.js) | 二分查找 |
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](20190920/index.js) | 二分查找, 双指针 |
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JS](20190922/index.js) | 位运算, 数组, 分治算法 |

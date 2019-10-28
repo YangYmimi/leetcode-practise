@@ -38,3 +38,6 @@
 * [20191016 - Same_Tree - 相等的树](20191016/README.md)
 * [20191017 - Remove_Duplicates_from_Sorted_List - 删除排序链表中的重复元素](20191017/README.md)
 * [20191018 - Symmetric_Tree - 对称二叉树](20191018/README.md)
+* [20191020 - Single_Number - 只出现一次的数](20191020/README.md)
+* [20191022 - Min_Stack - 最小栈](20191022/README.md)
+* [20191026 - Valid_Palindrome - 有效回文数](20191026/README.md)
