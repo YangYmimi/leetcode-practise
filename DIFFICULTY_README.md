@@ -30,6 +30,7 @@
 * [20191022 - Min_Stack - 最小栈](20191022/README.md)
 * [20191026 - Valid_Palindrome - 有效回文数](20191026/README.md)
 * [20191028 - Palindrome_Linked_List - 回文链表](20191028/README.md)
+* [20191030 - Number_of_1_Bits - 位1的个数](20191030/README.md)
 
 ## 中等
 

@@ -43,6 +43,7 @@ Daily Practise For Leetcode
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [JS](20190922/index.js) | 二分查找 |
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](20190920/index.js) | 二分查找, 双指针 |
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JS](20190922/index.js) | 位运算, 数组, 分治算法 |
+|191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [JS](20190922/index.js) | 位运算 |
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [JS](20191028/index.js) | 双指针 |
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JS](20191012/index.js) | 字符串, 双指针 |
 |946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | [JS](20190929/index.js) | 栈 |
