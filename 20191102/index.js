@@ -15,12 +15,10 @@ var largestPerimeter = function(A) {
   }); // 对边长数组进行排序, 递增排序
 
   // 从后往前遍历计算
-  console.log(sortedA);
   while (flag - 2 >= 0) { // flag，flag - 1，flag - 2 组成三边
-    console.log('flag: ', flag);
     if (sortedA[flag] < sortedA[flag - 1] + sortedA[flag - 2]) { // 两边之和大于第三边
       maxPerimeter = sortedA[flag] + sortedA[flag - 1] + sortedA[flag - 2];
-      break;
+      break; // 找到立即退出循环
     }
 
     flag--;
