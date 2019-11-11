@@ -46,7 +46,9 @@ Daily Practise For Leetcode
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [JS](20190922/index.js) | 位运算 |
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [JS](20191028/index.js) | 双指针 |
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JS](20191012/index.js) | 字符串, 双指针 |
+|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JS](20191101/index.js) | 排序, 双指针，二分查找 |
 |946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | [JS](20190929/index.js) | 栈 |
+|976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [JS](20191102/index.js) | 数学, 排序 |
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JS](20191004/index.js) | 数组, 双指针 |
 |1021|[Remove Outermost Parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [JS](20190926/index.js) | 栈 |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](20190927/index.js) | 栈 |

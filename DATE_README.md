@@ -43,3 +43,7 @@
 * [20191026 - Valid_Palindrome - 有效回文数](20191026/README.md)
 * [20191028 - Palindrome_Linked_List - 回文链表](20191028/README.md)
 * [20191030 - Number_of_1_Bits - 位1的个数](20191030/README.md)
+* [20191101 - Intersection_of_Two_Arrays - 两个数组的交集](20191101/README.md)
+* [20191102 - Largest_Perimeter_Triangle - 三角形的最大周长](20191102/README.md)
+
+|976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [JS](20191102/index.js) | 数学, 排序 |
