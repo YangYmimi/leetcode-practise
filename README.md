@@ -35,6 +35,7 @@ Daily Practise For Leetcode
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [JS](20191011/index.js) | 数组, 双指针 |
 |100|[Same Tree](https://leetcode-cn.com/problems/same-tree/) | [JS](20191023/index.js) | 深度优先搜索，树 |
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [JS](20191024/index.js) | 树，深度优先搜索，广度优先搜索 |
+|118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [JS](20191108/index.js) | 数组 |
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JS](20191026/index.js) | 双指针，字符串 |
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/) | [JS](20191020/index.js) | 位运算，哈希表 |
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JS](20190910/index.js) | 二分查找 |
@@ -47,6 +48,7 @@ Daily Practise For Leetcode
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [JS](20191028/index.js) | 双指针 |
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JS](20191012/index.js) | 字符串, 双指针 |
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JS](20191101/index.js) | 排序, 双指针，二分查找 |
+|532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | [JS](20191112/index.js) | 双指针 |
 |946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | [JS](20190929/index.js) | 栈 |
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [JS](20191102/index.js) | 数学, 排序 |
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JS](20191004/index.js) | 数组, 双指针 |
