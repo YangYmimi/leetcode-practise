@@ -47,3 +47,4 @@
 * [20191102 - Largest_Perimeter_Triangle - 三角形的最大周长](20191102/README.md)
 * [20191108 - Pascal's_Triangle - 杨辉三角](20191108/README.md)
 * [20191112 - K-diff_Pairs_in_an_Array - 数组中的K-diff数对](20191112/README.md)
+* [20191113 - Find_the_Duplicate_Number - 寻找重复数](20191113/README.md)

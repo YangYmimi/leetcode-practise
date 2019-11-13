@@ -46,6 +46,7 @@ Daily Practise For Leetcode
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JS](20190922/index.js) | 位运算, 数组, 分治算法 |
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [JS](20190922/index.js) | 位运算 |
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [JS](20191028/index.js) | 双指针 |
+|287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [JS](20191113/index.js) | 数组, 双指针, 二分查找 |
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JS](20191012/index.js) | 字符串, 双指针 |
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JS](20191101/index.js) | 排序, 双指针，二分查找 |
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | [JS](20191112/index.js) | 双指针 |

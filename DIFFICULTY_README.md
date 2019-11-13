@@ -49,6 +49,7 @@
 * [20191008 - 3_Sum - 三数之和](20191008/README.md)
 * [20191010 - Integer_to_Roman - 整数转罗马数字](20191010/README.md)
 * [20191014 - Permutations - 全排列](20191014/README.md)
+* [20191113 - Find_the_Duplicate_Number - 寻找重复数](20191113/README.md)
 
 ## 困难
 
