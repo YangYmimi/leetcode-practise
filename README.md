@@ -9,6 +9,7 @@ Daily Practise For Leetcode
 | -- | ----- | ------- | ---- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JS](20190820/index.js) | |
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [JS](20190821_1/index.js) | |
+|3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [JS](20191114/index.js) | 哈希表, 双指针, 字符串, Sliding Window |
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [JS](20190830/index.js) | 中位数, 二分查找, 分治 （没看懂） |
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [JS](20190821_2/index.js) | |
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JS](20190822/index.js) | |
