@@ -11,6 +11,7 @@ Daily Practise For Leetcode
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [JS](20190821_1/index.js) | |
 |3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [JS](20191114/index.js) | 哈希表, 双指针, 字符串, Sliding Window |
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [JS](20190830/index.js) | 中位数, 二分查找, 分治 （没看懂） |
+|5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [JS](20191115/index.js) | 字符串, 动态规划 |
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [JS](20190821_2/index.js) | |
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JS](20190822/index.js) | |
 |11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [JS](20190917/index.js) | 数组, 双指针 |
