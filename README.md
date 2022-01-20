@@ -51,6 +51,7 @@ Daily Practise For Leetcode
 |287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [JS](20191113/index.js) | 数组, 双指针, 二分查找 |
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JS](20191012/index.js) | 字符串, 双指针 |
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JS](20191101/index.js) | 排序, 双指针，二分查找 |
+|520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JS](20220120/index.js) |  |
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | [JS](20191112/index.js) | 双指针 |
 |946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | [JS](20190929/index.js) | 栈 |
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [JS](20191102/index.js) | 数学, 排序 |

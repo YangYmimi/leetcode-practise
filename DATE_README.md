@@ -50,3 +50,4 @@
 * [20191113 - Find_the_Duplicate_Number - 寻找重复数](20191113/README.md)
 * [20191114 - Longest_Substring_Without_Repeating_Characters - 无重复字符的最长子串](20191114/README.md)
 * [20191115 - Longest_Palindromic_Substring - 最长回文子串](20191115/README.md)
+* [20220120 - Detect Capital - 检测大写字母](20220120/README.md)
